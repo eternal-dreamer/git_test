@@ -1,0 +1,3 @@
+Hello !!
+I am Shrishti Goyal.
+I am open source enthusiast and I am currently exploring machine learning and web development.
